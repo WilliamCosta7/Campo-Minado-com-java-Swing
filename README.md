@@ -21,7 +21,8 @@ br.com.udemy.cm.visao: Contém as classes que implementam a interface gráfica d
 
 # Recursos/: Pasta contendo os recursos visuais utilizados no jogo, como as imagens de bomba e bandeira.
 
-![bandeira](https://github.com/user-attachments/assets/4a22d2d0-9014-4c05-bfe4-13f1d58abd2c) ![bombinha](https://github.com/user-attachments/assets/3ac87a84-8d3e-4d8d-9e2f-cd8836cbdd49)
+![bandeira](https://github.com/user-attachments/assets/4a22d2d0-9014-4c05-bfe4-13f1d58abd2c) 
+![bombinha](https://github.com/user-attachments/assets/3ac87a84-8d3e-4d8d-9e2f-cd8836cbdd49)
 
 Certifique-se de ter as imagens bombinha.png e bandeira.png na pasta src/recursos/ para que o jogo funcione corretamente. As imagens são necessárias para a exibição dos ícones correspondentes às minas no tabuleiro.
 
