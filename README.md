@@ -13,13 +13,13 @@ Implementada a marcação de campos com imagens, incluindo a bomba e a bandeira,
 
 # Estrutura do Projeto
 
-src/: Pasta contendo o código-fonte do projeto.
+## src/: Pasta contendo o código-fonte do projeto.
 
 br.com.udemy.cm.modelo: Contém as classes que representam o modelo do jogo, incluindo a lógica do tabuleiro e dos campos.
 
 br.com.udemy.cm.visao: Contém as classes que implementam a interface gráfica do jogo, incluindo a janela principal e os botões do campo.
 
-# Recursos/: Pasta contendo os recursos visuais utilizados no jogo, como as imagens de bomba e bandeira.
+Recursos/: Pasta contendo os recursos visuais utilizados no jogo, como as imagens de bomba e bandeira.
 
 ![bandeira](https://github.com/user-attachments/assets/4a22d2d0-9014-4c05-bfe4-13f1d58abd2c) 
 ![bombinha](https://github.com/user-attachments/assets/3ac87a84-8d3e-4d8d-9e2f-cd8836cbdd49)
